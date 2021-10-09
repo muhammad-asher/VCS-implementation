@@ -1,0 +1,18 @@
+body {
+	background-color: lightcyan;
+}
+p {
+	background-color: white;
+}
+h4 {
+	background-color: white;
+	font-weight: bold;
+	color: blue;
+}
+img {
+	align-content: center;
+	width: 70%;
+	height: 220;
+	margin-left: 50px;
+	margin-top: 10px;
+}
