@@ -16,3 +16,10 @@ img {
 	margin-left: 50px;
 	margin-top: 10px;
 }
+div {
+	margin-top: 10px;
+	background-color: black;
+	color: white;
+	height: 50;
+	text-align: center;
+}
